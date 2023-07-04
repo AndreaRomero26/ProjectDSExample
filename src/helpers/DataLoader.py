@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-class DataLoader:
+class Dataloader:
     def __init__(self, path):
         self.path = path
 
